@@ -1,4 +1,4 @@
-package com.doctor.jagmeet.happybirtday;
+package com.doctor.jagmeet.happybirthday;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

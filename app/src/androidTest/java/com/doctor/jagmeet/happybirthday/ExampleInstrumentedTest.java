@@ -1,4 +1,4 @@
-package com.doctor.jagmeet.happybirtday;
+package com.doctor.jagmeet.happybirthday;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
